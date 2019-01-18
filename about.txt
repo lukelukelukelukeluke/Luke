@@ -1,0 +1,46 @@
+<!DOCTYPE>
+<html>
+
+<head>
+<link rel="stylesheet" href="final.css">
+</head>
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" href="final.css">
+</head>
+<img src="banner.jpg" height="78" style="float:right;">
+
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="Calendar.html">Calendar</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+</ul>
+<body>
+
+<h1>About</h1>
+<p>
+<b>Mission Statement -</b> Making lives more simple and easy 
+</p>
+<br>
+<br>
+<p>
+SE CPA and Financials was founded in Fort Collins, Colorado and the headquarters 
+has stayed there since then. When it was founded in 2005 the owner had just graduated 
+from Colorado State University with a degree in business with a concentration in accounting.
+Even though Fort Collins has been rapidly growing since 2005 we have stayed true to 
+to our town and are putting forth our best effort to ensure we can give each and every 
+customer their best experience.  
+</p>
+<br>
+<br>
+<p>
+<b>Contact Information</b> <br> Phone - (970) 222-2222 <br> Email - secpafinancials@se.com
+</p>
+</body>
+<img src="businesspeople.jpg">
+<img src="finallogo1.jpg" style="float:right;width:150px;height:150px;">
+</html>

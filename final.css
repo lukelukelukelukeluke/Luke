@@ -1,0 +1,65 @@
+ul {
+list-style-type: none;
+margin: 0;
+padding:0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+border-right: 1px solid #bbb;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 30px 16px;
+text-decoration: none;
+}
+
+ol li {
+text-align: center;
+}
+
+table {
+text-align: center;
+height: 700px;
+width: 700px;
+}
+
+th {
+text-align: 100;
+}
+
+h1 {
+text-align: center;
+}
+
+h2 {
+text-align: center;
+}
+
+h3 {
+text-align: center;
+}
+
+h4 {
+text-align: center;
+
+}
+
+h5 {
+text-align: center;
+}
+
+p {
+text-align: center;
+line-height: 2;
+letter-spacing: 1;
+}
+
+body {
+background-color: rgb(220, 220, 220);
+}

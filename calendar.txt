@@ -1,0 +1,76 @@
+<!DOCTYPE>
+<hmtl>
+<head>
+<link rel="stylesheet" href="final.css">
+</head>
+<img src="banner.jpg" height="78" style="float:right;">
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="Calendar.html">Calendar</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+</ul>
+
+
+<body>
+
+
+<h3>Calendar for February of 2019</h3>
+
+<table border="2">
+<tr>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>1</th>
+</tr>
+
+<tr>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+
+<tr>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14 (Happy Valentine's Day!)</th>
+<th>15</th>
+</tr>
+
+<tr>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+</tr>
+
+<tr>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+</tr>
+
+
+
+</table>
+<img src="final

@@ -1,0 +1,32 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" href="final.css">
+</head>
+<img src="banner.jpg" height="78" style="float:right;">
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="Calendar.html">Calendar</a></li>
+<li><a href="pricing.html">Pricing</a></li>
+</ul>
+
+<body>
+<h1>Welcome to SE CPA and Financials</h1>
+<h3>Happy Holidays from SE CPA and Financials to you!</h3>
+<br>
+<br>
+<p> To celebrate the season of giving we are offering 15% off on all of our services.
+To schedule an appointment go to our Pricing page or click <a href="services.html">here</a>.
+<p/>
+<p>
+To learn more about our story, mission statement, and employees click on the About 
+tab or click <a href="about.html">here</a>
+</p>
+<p>
+For a Valentine's Day countdown click <a href="https://www.timeanddate.com/countdown/valentines">here!</a>
+</p>
+<img src="valentinesday.jpg" style="float:right;width:150px;">
+</body
